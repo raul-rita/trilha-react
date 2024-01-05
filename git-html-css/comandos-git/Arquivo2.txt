@@ -1,0 +1,9 @@
+arquivo alterado na nuvem
+
+git pull -> para pegar os arquivos da nuvem
+
+git add . -> adiciona todos os arquivos a linha do tempo
+
+git commit -m "mensagem" -> cria o ponto na linha do tempo com uma mensagem indicando a alteração realizada
+
+git push -> envia tudo que está "commitado" para a nuvem
